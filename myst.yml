@@ -16,6 +16,10 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
+    - title:Xarray Notebook
+     children:
+      - file: notebook/xarray.ipynb
   jupyter:
       binder:
         repo: projectpythia/cookbook-template
+
