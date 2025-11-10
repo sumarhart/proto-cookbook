@@ -3,8 +3,4 @@ tags:
   domains:
     - sampledomain
   packages:
-    -  xarray
-    - numpy
-    - pandas
-    - datetime
-    - matplotlib
+   - samplepackages

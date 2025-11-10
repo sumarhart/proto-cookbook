@@ -8,15 +8,15 @@
 
 
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers visualizing precipitation anomalies over time through plotting time series and maps to compare to historical flood events. 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+The goal of this cookbook is to visualize precipitation anomaly data over Alabama with the eventual goal of comparing historical flood records and ERA5 data to lake sediment core data. Here we look at precipitation anomaly ERA5 data, plotting the monthly anomalies from 1979-2025 
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+Sumar Hart
 
 ### Contributors
 
